@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
             //smart device + grid
             Padding(
               padding: EdgeInsets.symmetric(horizontal: horizontalPadding),
-              child: Text("Small Devices"),
+              child: Text("Smart Devices"),
             ),
 
             Expanded(
